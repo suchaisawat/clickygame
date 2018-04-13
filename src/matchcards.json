@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "./assets/images/croco.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./assets/images/elephant.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./assets/images/farmingo.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./assets/images/frog.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./assets/images/monkey.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./assets/images/panda.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "./assets/images/pig.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "./assets/images/polarbear.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "./assets/images/rhino.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "./assets/images/tiger.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "./assets/images/turtle.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "./assets/images/zibra.jpg",
+    "clicked": false
+  }
+]
